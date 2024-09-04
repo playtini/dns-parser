@@ -15,6 +15,6 @@
 
 ### Usage example 
 
-`go build; ./dns-parser -v --dns-type=1 < ./input.txt > ./output.txt`
+`go build; ./dnsparser -v --dns-type=1 < ./input.txt > ./output.txt`
 
 input.txt - file with domain per line
